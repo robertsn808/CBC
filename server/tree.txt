@@ -1,0 +1,16 @@
+.
+├── clientPortalSessionRoutes.ts
+├── db.ts
+├── openai.ts
+├── package.json
+├── pdf-generator.ts
+├── src
+│   ├── index.ts
+│   ├── routes.ts
+│   └── storage.ts
+├── tree.txt
+├── tsconfig.json
+├── twilio.ts
+└── vite.ts
+
+2 directories, 12 files
